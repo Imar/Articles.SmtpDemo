@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30626.31
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmtpDemo.Web", "SmtpDemo.Web\SmtpDemo.Web.csproj", "{727AFDBC-614B-4B64-9D8E-EE5AF3D75E56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaanjaars.Toolkit", "Spaanjaars.Toolkit\Spaanjaars.Toolkit.csproj", "{1C7C3F78-1CD6-4B6E-876E-80CB1DA2F182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{727AFDBC-614B-4B64-9D8E-EE5AF3D75E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727AFDBC-614B-4B64-9D8E-EE5AF3D75E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727AFDBC-614B-4B64-9D8E-EE5AF3D75E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727AFDBC-614B-4B64-9D8E-EE5AF3D75E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7C3F78-1CD6-4B6E-876E-80CB1DA2F182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7C3F78-1CD6-4B6E-876E-80CB1DA2F182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7C3F78-1CD6-4B6E-876E-80CB1DA2F182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7C3F78-1CD6-4B6E-876E-80CB1DA2F182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C61AD83-7CC1-4371-84A1-0D427B1D810C}
+	EndGlobalSection
+EndGlobal
